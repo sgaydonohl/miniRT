@@ -12,3 +12,6 @@ https://www.iquilezles.org/www/index.htm
 
 Intro au ray-tracing, la bible.
 https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work
+
+
+Compiler avec -lmlx -framework OpenGL -framework AppKit
