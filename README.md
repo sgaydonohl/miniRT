@@ -3,8 +3,6 @@ https://github.com/ttshivhula/minilibx
 
 ray-marching: 
 http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
-
-blog de ouf sur le sujet:
 https://www.iquilezles.org/www/index.htm
 
 Intro au ray-tracing, la bible.
@@ -18,6 +16,12 @@ https://sebastiandang.github.io/docs/cse168/RayTracing.pdf
 
 Doc de jboissy:
 https://github.com/Hyarius/PIMP-Your-Code
+
+rtv1_hamza:
+https://github.com/hamza-ezzahiry/rtv1_team
+
+simple demo : 
+https://github.com/keuhdall/images_example
 
 
 Compiler avec -lmlx -framework OpenGL -framework AppKit
